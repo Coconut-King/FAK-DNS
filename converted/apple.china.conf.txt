@@ -46,6 +46,7 @@
 [/cn-smp-paymentservices.apple.com/]h3://dns.alidns.com/dns-query
 [/configuration.apple.com.akadns.net/]h3://dns.alidns.com/dns-query
 [/configuration.apple.com/]h3://dns.alidns.com/dns-query
+[/crl.apple.com/]h3://dns.alidns.com/dns-query
 [/cstat.apple.com/]h3://dns.alidns.com/dns-query
 [/cstat.cdn-apple.com/]h3://dns.alidns.com/dns-query
 [/dd-cdn.origin-apple.com.akadns.net/]h3://dns.alidns.com/dns-query
